@@ -8,8 +8,10 @@
 
 ## Let's Connect
 
+![GitHub followers](https://img.shields.io/github/followers/digby-j?label=Follow&style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/JakeDigby?label=Follow)](https://twitter.com/intent/follow?screen_name=JakeDigby)
 [![Linkedin: jakedigby](https://img.shields.io/badge/-jakedigby-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akedigby/)](https://www.linkedin.com/in/jakedigby/)
+
 [![website](https://img.shields.io/badge/jakedigby-46a2f1.svg?&style=flat-square&logo=firefox&logoColor=white&link=https://jakedigby.com/)](https://jakedigby.com/)
 
 ## 📄  Me Online
@@ -34,8 +36,9 @@
 ![](https://img.shields.io/badge/Code-css-informational?style=flat&logo=css3&logoColor=white&color=6aa6f8)
 
 ### Tools and Frameworks
+
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Editor-Xcode-informational?style=flat&logo=xcode&logoColor=white&color=6aa6f8))
+![](https://img.shields.io/badge/Editor-Xcode-informational?style=flat&logo=xcode&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-mongodb-informational?style=flat&logo=mongoDB&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-express-informational?style=flat&logo=express&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-nodejs-informational?style=flat&logo=node&logoColor=white&color=6aa6f8)
@@ -45,5 +48,8 @@
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
 
 ## Portfolio Projects
+
+[![image of a simple eye](https://raw.githubusercontent.com/digby-j/eyes/main/img/oneeye.png "Eye Exercise in HTML, CSS & JavaScript")](https://github.com/digby-j/eyes)
+
 
 <p>This will soon be updated - I gotta make em look good </p>
