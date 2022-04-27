@@ -49,7 +49,7 @@
 
 ## Portfolio Projects
 
-[![image of a simple eye](https://raw.githubusercontent.com/digby-j/eyes/main/img/oneeye.png "Eye Exercise in HTML, CSS & JavaScript")](https://github.com/digby-j/eyes)
+[![image of a simple eye](https://raw.githubusercontent.com/digby-j/eyes/main/img/oneeye.png "Eye Exercise in HTML, CSS & JavaScript")](https://github.com/digby-j/eyes){width:200px,height:200px}
 
 
 <p>This will soon be updated - I gotta make em look good </p>
