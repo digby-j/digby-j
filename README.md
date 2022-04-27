@@ -9,9 +9,9 @@
 ## Let's Connect
 
 ![GitHub followers](https://img.shields.io/github/followers/digby-j?label=Follow&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=digby-j.digby-j)
 [![Twitter Follow](https://img.shields.io/twitter/follow/JakeDigby?label=Follow)](https://twitter.com/intent/follow?screen_name=JakeDigby)
 [![Linkedin: jakedigby](https://img.shields.io/badge/-jakedigby-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akedigby/)](https://www.linkedin.com/in/jakedigby/)
-
 [![website](https://img.shields.io/badge/jakedigby-46a2f1.svg?&style=flat-square&logo=firefox&logoColor=white&link=https://jakedigby.com/)](https://jakedigby.com/)
 
 ## 📄  Me Online
