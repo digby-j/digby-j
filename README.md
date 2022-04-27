@@ -49,9 +49,9 @@
 
 ## Portfolio Projects
 
-[![image of a simple eye](https://raw.githubusercontent.com/digby-j/eyes/main/img/oneeye.png "Eye Exercise in HTML, CSS & JavaScript")](https://github.com/digby-j/eyes){width:200px,height:200px}
-
-
-<img align="right" src="https://raw.githubusercontent.com/digby-j/eyes/main/img/oneeye.png" width="200">
+<p align="left">
+<img align="center" src="https://raw.githubusercontent.com/digby-j/eyes/main/img/oneeye.png" alt="cartoon eye on blue background with black pupil" title="Eyes Exercise" width="200">
+<p align="center"> Eyes Exercise</p>
+</P>
 
 <p>This will soon be updated - I gotta make em look good </p>
