@@ -49,9 +49,6 @@
 
 ## Portfolio Projects
 
-<p align="left">
-<img align="center" src="https://raw.githubusercontent.com/digby-j/eyes/main/img/oneeye.png" alt="cartoon eye on blue background with black pupil" title="Eyes Exercise" width="200">
-<p align="center"> Eyes Exercise</p>
-</P>
-
-<p>This will soon be updated - I gotta make em look good </p>
+<a href="https://github.com/digby-j/eyes">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=digby-j&repo=eyes&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Eyes" />
+</a>
