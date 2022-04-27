@@ -2,9 +2,16 @@
 <img align='right' src="https://media1.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e470six6kqy2wuwygavo1q5nzbo4ogbyep6vf7xz3dp&rid=giphy.gif&ct=g" width="200">
 <p>My name is Jake Digby and I'm a Full Stack Wed Developer 😎</p>
 
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
 ----------
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+## About Me
+
+I started coding in Swift during my time as a Creative Pro at Apple. From there I began exploring new technologies and languages. I began a course at MiT learning Full Stack Development and found a new path with JavaScript and Web Development. Full Stack has really opened my eyes to the potential of Web Technologies and the intricacies it brings.
+
+Please feel free to take a look around at my profile and repos to get a better sense of my skills - or give me some pointers, I’m always open to learning.
+
 
 ## Let's Connect
 
@@ -34,6 +41,7 @@
 ![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-html-informational?style=flat&logo=html5&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-css-informational?style=flat&logo=css3&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-javascript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
 
 #### My Top Languages Thus far
 
