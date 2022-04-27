@@ -35,6 +35,10 @@
 ![](https://img.shields.io/badge/Code-html-informational?style=flat&logo=html5&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-css-informational?style=flat&logo=css3&logoColor=white&color=6aa6f8)
 
+#### My Top Languages Thus far
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digby-j&theme=radical&layout=compact)](https://github.com/digby-j/eyes/github-readme-stats)
+
 ### Tools and Frameworks
 
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
