@@ -62,5 +62,9 @@ Please feel free to take a look around at my profile and repos to get a better s
 ## Portfolio Projects
 
 <a href="https://github.com/digby-j/eyes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=digby-j&repo=eyes&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Eyes" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=digby-j&repo=eyes&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Eyes Repo" />
+</a>
+
+<a href="https://github.com/digby-j/Shopping-Cart">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=digby-j&repo=Shopping-Cart&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Shopping Cart Repo" />
 </a>
