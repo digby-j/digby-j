@@ -23,8 +23,9 @@ Please feel free to take a look around at my profile and repos to get a better s
 
 ## 📄  Me Online
 
-- Personal Website: https://www.jakedigby.com
-- Personal blog, Privacy, Security and Everything Self-Hosted https://www.opendigitalthinking.com
+- [My Portfolio](https://digby-j.github.io/)
+- [Personal Website](https://www.jakedigby.com)
+- [Personal blog, Privacy, Security and Everything Self-Hosted](https://www.opendigitalthinking.com)
 
 ## 🪛 Technologies and Tools
 
@@ -45,7 +46,7 @@ Please feel free to take a look around at my profile and repos to get a better s
 
 #### My Top Languages Thus far
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digby-j&theme=radical&layout=compact)](https://github.com/digby-j/eyes/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digby-j&theme=radical&layout=compact)](https://github.com/digby-j/github-readme-stats)
 
 ### Tools and Frameworks
 
